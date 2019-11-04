@@ -9,7 +9,9 @@ $ pkg install figlet
 
 $ pkg install toilet
 
-$ pkg install PHP
+$ pkg install openssh
+
+$ pkg install php
 
 $ git clone https://github.com/reyspeed/Tools-V1
 
