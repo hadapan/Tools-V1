@@ -1,9 +1,14 @@
-# Tools-V1
-script ini masih proses pengembangan
+# Tools-V1==>by:MR.CROOT
+# Script ini masih proses pengembangan
+# kalau ada kesalahan lapor ke ==>reyspeed01@gmail.com
 
 $ pkg update && pkg upgrade
 
 $ pkg install python2
+
+$ pkg install bash
+
+$ gem install lolcat
 
 $ pkg install figlet
 
