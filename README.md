@@ -1,5 +1,6 @@
 # Tools-V1==>by:MR.CROOT
 # Script ini masih proses pengembangan
+# jadi tolong para recode jangan di recode dulu😁
 # kalau ada kesalahan lapor ke ==>reyspeed01@gmail.com
 
 $ pkg update && pkg upgrade
