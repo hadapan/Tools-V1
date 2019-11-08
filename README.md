@@ -19,6 +19,8 @@ $ pkg install openssh
 
 $ pkg install php
 
+$ pkg install git
+
 $ git clone https://github.com/reyspeed/Tools-V1
 
 $ cd Tools-V1
